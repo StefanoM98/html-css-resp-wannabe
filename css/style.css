@@ -142,6 +142,19 @@ img {
     .lessons .col, .steps .col, .why-us .col {
         width: 100%;
     }
+
+    .why-us .container h2 {
+        padding-top: 40px;
+    }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+    .why-us {
+        margin-bottom: 0;
+        background-color: #222222;
+    }
 }
 
 @media screen and (max-width: 1160px){
